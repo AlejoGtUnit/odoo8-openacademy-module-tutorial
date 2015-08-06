@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from openerp import http
 
+# this is a coment to commit
 # class Openacademy(http.Controller):
 #     @http.route('/openacademy/openacademy/', auth='public')
 #     def index(self, **kw):
